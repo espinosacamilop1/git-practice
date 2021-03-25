@@ -1,3 +1,4 @@
 Name: Camilo Espinosa
 Age: 20
 Favorite Color: Mint Cream
+Nationality: Cuban
